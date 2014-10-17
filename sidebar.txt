@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ida:home|Door43 (ida)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ida|d43-ida repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ida/archive/master.zip|d43-ida.zip]]
+
+**Recent Changes**
+{{changes>ns = ida}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ida|Ethnologue data]]
+
